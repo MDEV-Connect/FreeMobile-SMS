@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/MaxenceLebrunDEV/FreeMobile-SMS.git"
   },
+  "dependencies": {
+    "node-fetch-commonjs": "^1.0.0"
+  },
   "author": "MaxenceDEV",
   "license": "ISC",
   "bugs": {
