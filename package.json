@@ -1,0 +1,19 @@
+{
+  "name": "freemobile-sms",
+  "version": "1.0.0",
+  "description": "An unofficial package for permit send sms to your own phone with an apiKey given by the phone operator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxenceLebrunDEV/FreeMobile-SMS.git"
+  },
+  "author": "MaxenceDEV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxenceLebrunDEV/FreeMobile-SMS/issues"
+  },
+  "homepage": "https://github.com/MaxenceLebrunDEV/FreeMobile-SMS#readme"
+}
